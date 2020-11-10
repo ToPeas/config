@@ -1,3 +1,3 @@
 ###  一些常用的配置文件
 
-* <a href="/config.lua">`hammerspoon配置文件`</a>
+* <a href="/hammerspoon/config.lua">`hammerspoon配置文件`</a>
